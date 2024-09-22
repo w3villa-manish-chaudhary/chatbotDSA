@@ -13,8 +13,8 @@ This is the ChatBot application, built with React , Node.js and Express.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chatBot-backend.git
-   cd chatBot
+   git clone https://github.com/w3villa-manish-chaudhar/chatBotDSA.git
+   cd chatBotDSA
    npm install
    Set up environment variables by creating a .env file
    npm start
